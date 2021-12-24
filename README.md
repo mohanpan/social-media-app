@@ -1,35 +1,36 @@
-### Code Splitting
+### Code Explaining
 
 The firebase data is also in a txt file in this folder.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 # Getting Started with Create React App
 
