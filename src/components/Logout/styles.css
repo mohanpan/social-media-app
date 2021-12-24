@@ -1,0 +1,18 @@
+.logout{
+    align-content: center;
+    margin-top: 1px;
+}
+
+.logout-btn{
+    height: 50px;
+    width: 50px;
+    color: #555f5f;
+    align-content: center;
+    position:relative;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.logout-btn:hover{
+    opacity: 0.8;
+}
