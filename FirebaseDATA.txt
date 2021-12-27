@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "name": "projects/itec-final-project/databases/(default)/documents/social media posts/SMFyRZe1yRIKm0GfZFYj",
+      "fields": {
+        "image": {
+          "stringValue": "https://images.indianexpress.com/2017/04/car_thinkstock_759.jpg"
+        },
+        "user": {
+          "stringValue": "allen002@gmail.com"
+        },
+        "text": {
+          "stringValue": "Of course saving money for them."
+        }
+      }
+    },
+    {
+      "name": "projects/itec-final-project/databases/(default)/documents/social media posts/k1uLKhgYRv5D7usBYerc",
+      "fields": {
+        "image": {
+          "stringValue": "https://pbs.twimg.com/media/EsITk4jXAAEGwyy.jpg"
+        },
+        "text": {
+          "stringValue": "Happy 300 days anniversary!"
+        },
+        "user": {
+          "stringValue": "cathy002@gmail.com"
+        }
+      }
+    },
+    {
+      "name": "projects/itec-final-project/databases/(default)/documents/social media posts/nxYKFcJltCq2Sz4amJVz",
+      "fields": {
+        "image": {
+          "stringValue": "https://images.unsplash.com/photo-1551779891-b83901e1f8b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9nJTIwd2l0aCUyMGdpcmx8ZW58MHx8MHx8&w=1000&q=80"
+        },
+        "text": {
+          "stringValue": "Today is puppy day!"
+        },
+        "user": {
+          "stringValue": "alice001@gmail.com"
+        }
+      }
+    }
+  ]
+}
