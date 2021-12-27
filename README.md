@@ -1,3 +1,46 @@
+### Code Explaining
+
+The firebase data is also in a txt file in this folder.
+
+Here is the enviornment file information:
+
+REACT_APP_API_KEY=AIzaSyCgls-Eb7-MmToYzBhQbf5JdPjqOzdwISI
+REACT_APP_AUTH_DOMAIN=itec-final-project.firebaseapp.com
+REACT_APP_PROJECT_ID=itec-final-project
+REACT_APP_MESSAGE_SENDER_ID=676506034532
+REACT_APP_FIREBASE_APP_ID=1:676506034532:web:e1fb1d9157ee7a27755a71
+
+
+. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
