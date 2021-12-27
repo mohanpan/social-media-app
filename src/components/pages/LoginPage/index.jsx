@@ -1,7 +1,7 @@
 import "./styles.css"
 import { useForm } from "react-hook-form";
 import { useState } from "react";
-import { useHistory } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword} from 'firebase/auth';
 
@@ -11,7 +11,7 @@ export const LoginPage = () => {
 
     const {register, handleSubmit } = useForm();
 
-    const history = useHistory();
+    const history = useNavigate();
 
     const loginUser = async(formVals) => {
         

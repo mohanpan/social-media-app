@@ -3,7 +3,7 @@ import "./styles.css";
 import { NavLink } from "react-router-dom";
 import { getAuth, onAuthStateChanged, signOut } from "@firebase/auth";
 import{ useEffect, useState } from "react";
-import { PostItem } from "../../PostItem";
+import { allposts } from "../../allposts";
 
 export const profilePage = () => {
 
@@ -46,7 +46,7 @@ export const profilePage = () => {
         <div className="posts-container">
             {
             posts.map((post) => (
-                <PostItem user ={post.user.stringValue} image={post.image.stringValue} text={post.text.stringValue}></PostItem>
+                <allposts user ={post.user.stringValue} image={post.image.stringValue} text={post.text.stringValue}></allposts>
                 ))
             }
         </div>

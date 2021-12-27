@@ -3,7 +3,7 @@ import { useEffect, useState, useContext } from "react";
 import { allposts } from "../../allposts";
 
 import { getAuth, onAuthStateChanged } from 'firebase/auth';
-import { useHistory } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 export const Homepage = () => {
 
@@ -12,7 +12,7 @@ export const Homepage = () => {
   //const [searchString, setSearchString] = useState('');
 
 
-  const history = useHistory();
+  const history = useNavigate();
 
   //check if a current user is logged into the firebase
   useEffect(
